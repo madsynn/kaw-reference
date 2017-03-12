@@ -63,6 +63,8 @@ My Kingdoms at War Reference Guide
 <tr><td>PM</td><td>Private Message </td></tr>
 <tr><td>SKO</td><td>Self Knock Out</td></tr>
 <tr><td>ADT</td><td>Attack Defense Tower</td></tr>
+<tr><td>Kotfe</td><td>Knights of the fire emblem</td></tr>
+<tr><td>AoW</td><td>Art Of War</td></tr>
 
 </table>
 
