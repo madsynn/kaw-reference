@@ -18,5 +18,16 @@
 
 ![searingsickle-ng](https://cloud.githubusercontent.com/assets/2112435/23969849/7f05d256-098d-11e7-9e6c-3f41011c1a3d.png)
 
+## **Torrent Talisman** > drops from Scionic Storm
+>Max Enchant Level: 4
+
+|  |  |  | **Troops** |  | **Spies** |  | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| Level | Inferno | Aqua | Attack |  Defense | Attack | Defense |
+| 1 | 1 | 0 |--| 5,500,000 |--| 1,000,000 |
+| 2 | 1 | 0 | -- | 6,000,000 | -- | 1,500,000 |
+| 3 | 1 | 0 | -- | 6,500,000 | -- | 2,000,000 |
+| 4 | 1 | 1 | -- | 7,000,000 | -- | 3,000,000 |
+
 ##### KAW Guide - Kingdoms At War
 
