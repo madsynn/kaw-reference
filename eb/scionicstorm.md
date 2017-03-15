@@ -18,6 +18,15 @@
 
 ![searingsickle-ng](https://cloud.githubusercontent.com/assets/2112435/23969849/7f05d256-098d-11e7-9e6c-3f41011c1a3d.png)
 
+### Secondary Drops
+
+* Mystic Hammer
+* Bronze Bars
+* Aqua
+* Inferno
+
+
+
 ## **Torrent Talisman** > drops from Scionic Storm
 >Max Enchant Level: 4
 
