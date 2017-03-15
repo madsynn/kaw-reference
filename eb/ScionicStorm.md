@@ -1,6 +1,5 @@
 ## Scionic Storm
 ### Epic Battle Details
-![tow](https://cloud.githubusercontent.com/assets/23286307/23721934/a6f00c42-0400-11e7-9206-8baac3d64b58.png)
 
 | Bar Name | Phase | Action | % | Item: | Needed |
 | --- | --- | --- | --- | --- | --- |
@@ -11,7 +10,13 @@
 | Podlings | Phase 3 First Bar | Use Item | 0 | Orb Of Illumination | |
 | Children of the Pod | Phase 3 Main Bar | Attack & Assasinate | 0 | | |
 
-Drops Torrent Talisman
+> Drops Torrent Talisman
 
+![torrenttalisman](https://cloud.githubusercontent.com/assets/2112435/23969834/709d2bec-098d-11e7-9bef-78b45ba84cc4.png)
+
+> Requires Searing Sickle to attack Pupal Phase
+
+![searingsickle-ng](https://cloud.githubusercontent.com/assets/2112435/23969849/7f05d256-098d-11e7-9e6c-3f41011c1a3d.png)
 
 ##### KAW Guide - Kingdoms At War
+
