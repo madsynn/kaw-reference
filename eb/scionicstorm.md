@@ -1,6 +1,8 @@
 ## Scionic Storm
 ### Epic Battle Details
 
+![hawthorn](https://cloud.githubusercontent.com/assets/2112435/23970739/993f4622-0990-11e7-823c-1406005033d8.jpg)
+
 | Bar Name | Phase | Action | % | Item: | Needed |
 | --- | --- | --- | --- | --- | --- |
 | Oozing Bane | Phase 1 First Bar | Attack & Assasinate | 0 | | |
