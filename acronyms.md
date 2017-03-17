@@ -27,7 +27,7 @@ My Kingdoms at War Reference Guide
 
 #myTable th, #myTable td {
   text-align: left;
-  padding: 12px;
+  padding: 2px;
 }
 
 #myTable tr {
