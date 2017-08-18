@@ -28,20 +28,20 @@
 | 2 | 4 / Winghoul Swarm | Attack & Assassinate | |
 | | | | | |
 | 3 | 1 / Skelatal Aberrations | Attack & Assassinate | |
-| 3 | 2 / Netherkings Seals | **Holy Wrath** | |
+| 3 | 2 / Netherkings Seals | Item | **Holy Wrath** |
 | 3 | 3 / Winghoul Swarms | Attack & Assassinate | |
 | 3 | 4 / Hordes of the Nither | Attack & Assassinate | |
 | | | | | |
 | 4 | 1 / Diabolical Mist | Attack & Assassinate | |
 | 4 | 2 / Spectral Guard | Attack & Assassinate | |
 | 4 | 3 / The Wailing of the Damned | Attack & Assassinate | |
-| 4 | 4 / Winghoul Formations | **Seal of Divinity** | |
+| 4 | 4 / Winghoul Formations | Item | **Seal of Divinity** |
 | 4 | 5 / Mist Zombies | Attack & Assassinate | |
 | | | | | |
 | 5 | 1 / Haze of the Diabolical | Attack & Assassinate | |
 | 5 | 2 / Forests of Malevolence | Attack & Assassinate | |
 | 5 | 3 / Spectral Mist Gaurdians | Attack & Assassinate | |
-| 5 | 4 / Night Into Day | **Orb of Illumination** | |
+| 5 | 4 / Night Into Day |  Item | **Orb of Illumination** |
 | 5 | 5 / Winghoul Swarms | Attack & Assassinate | |
 | | | | | |
 | Final | 1 / Last Charge of the Damned |  Attack & Assassinate | |
