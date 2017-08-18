@@ -18,9 +18,9 @@
 
 ## Epic Battle The Netherking Overview:
 
-| Phase | Bar Name | Action | Item | Needed To Hit |
+| Phase | Bar / Bar Name | Action | Item | Needed To Hit |
 | --- | --- | --- | --- | --- |
-| 1 | Cataclysmic Rift | Seal of Damned | 10 Seals of Damned Unlock |
+| 1 | 1 / Cataclysmic Rift | Unlock | Seal of Damned | 10 Seals of Damned |
 | | | | | |
 | 2 | 1 / Mortars adn Bombards | Attack & Assassinate | |
 | 2 | 2 / Unleash Siege Dragons | Attack & Assassinate | |
