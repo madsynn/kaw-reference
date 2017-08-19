@@ -4,14 +4,12 @@ sudo: false
 rvm:
   - 2.3.3
 
-install: /script/bootstrap
-script: /script/cibuild
-
 before_script:
  - chmod +x ./script/cibuild
  - chmod +x ./script/bootstrap
 
-
+install: /script/bootstrap
+script: /script/cibuild
 
 # branches:
 #   only:
