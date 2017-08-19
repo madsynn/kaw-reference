@@ -4,3 +4,4 @@ set -e
 
 bundle exec jekyll build
 gem build jekyll-theme-hacker.gemspec
+bundle exec htmlproofer ./ --disable-external
