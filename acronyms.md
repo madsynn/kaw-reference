@@ -9,7 +9,7 @@
  </div>
 
 
-<table id="myTable">
+<table id="myTable" class="display" cellspacing="0" width="100%">
   <tr class="header">
     <th>Acronym / Abbreviation</th>
     <th>Definition</th>
