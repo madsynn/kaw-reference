@@ -9,3 +9,7 @@ plugins:
    - jekyll-coffeescript
    - jekyll-assets
    - jekyll-sitemap
+   - html-proofer
+
+gist:
+  noscript: false
