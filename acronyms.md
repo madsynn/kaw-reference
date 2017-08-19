@@ -1,6 +1,6 @@
 ---
 title: Acronyms Reference
-permalink: acronyms.md
+permalink: acronyms
 ---
 
 <div class="form-group col-sm-3">

@@ -4,12 +4,3 @@ show_downloads: true
 google_analytics: UA-104942085-1
 theme: jekyll-theme-hacker
 
-plugins:
-   - jekyll-gist
-   - jekyll-coffeescript
-   - jekyll-assets
-   - jekyll-sitemap
-   - html-proofer
-
-gist:
-  noscript: false

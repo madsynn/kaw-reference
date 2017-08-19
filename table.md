@@ -1,6 +1,6 @@
 ---
 title: Table Test
-permalink: table.md
+permalink: table
 ---
 
 <div class="form-group col-sm-3">
