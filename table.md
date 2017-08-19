@@ -2,6 +2,9 @@
 title: Table Test
 ---
 
+<table id="example" class="display" width="100%">
+</table>
+
 <div class="form-group col-sm-3">
     <label>Acronym Search:</label>
     <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
