@@ -1,5 +1,7 @@
 
 
+
+
 function myFunction() {
   var input, filter, table, tr, td, i;
   input = document.getElementById("myInput");
@@ -17,3 +19,19 @@ function myFunction() {
     }
   }
 }
+
+
+
+!(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-104942085-1', 'auto');
+ga('send', 'pageview');
+
+$(document).ready(function() {
+    $('#example').DataTable( {
+        "ajax": 'https://raw.githubusercontent.com/madsynn/kaw-reference/master/assets/ajax/data/data.json'
+    } );
+} );

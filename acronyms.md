@@ -100,3 +100,4 @@
 <script src="https://raw.githubusercontent.com/madsynn/kaw-reference/master/assets/js/myjs.js"></script>
 
 https://github.com/madsynn/kaw-reference/blob/master/assets/js/myjs.js
+https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css
