@@ -1,6 +1,5 @@
 ---
 title: Table Test
-permalink: table
 ---
 
 <div class="form-group col-sm-3">
