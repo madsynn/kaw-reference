@@ -1,19 +1,17 @@
 ---
 title: Acronyms Reference
 ---
-
 <div class="form-group col-sm-6">
   <label>Acronym Search:</label>
   <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
   <small>type in possible keywords for you search and watch them magically appear</small>
- </div>
-
-
+</div>
 <table id="myTable" class="display" cellspacing="0" width="100%">
- <thead>
-  <tr class="header">
-    <th>Acronym / Abbreviation</th> <th>Definition</th>
-  </tr>
+  <thead>
+    <tr class="header">
+      <th>Acronym / Abbreviation</th>
+      <th>Definition</th>
+    </tr>
   </thead>
   <tr><td>Def</td><td>Defense</td></tr>
   <tr><td>Scout Bomb</td><td>To scout someone a lot</td></tr>
@@ -69,9 +67,10 @@ title: Acronyms Reference
   <tr><td>ADT</td><td>Attack Defense Tower</td></tr>
   <tr><td>Kotfe</td><td>Knights of the fire emblem</td></tr>
   <tr><td>AoW</td><td>Art Of War</td></tr>
-
+  <tfoot>
+    <tr class="footer">
+      <th>Acronym / Abbreviation</th>
+      <th>Definition</th>
+    </tr>
+  </tfoot>
 </table>
-
-
-
-
