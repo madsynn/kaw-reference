@@ -1,4 +1,7 @@
-
+---
+title: Acronyms Reference
+permalink: acronyms.md
+---
 
 <div class="form-group col-sm-3">
   <label>Acronym Search:</label>
