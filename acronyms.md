@@ -1,11 +1,16 @@
 
 
 # kaw-reference
-My Kingdoms at War Reference Guide
+## My Kingdoms at War Reference Guide
 
+## KAW Acronyms
+### with active search
 
-
- <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+<div class="form-group col-sm-3">
+<label>Acronym Search:</label>
+  <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+<small>type in possible keywords for you search and watch them magically appear</small>
+ </div>
 
 <table id="myTable">
   <tr class="header">
