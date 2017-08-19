@@ -32,6 +32,6 @@ ga('send', 'pageview');
 
 $(document).ready(function() {
     $('#example').DataTable( {
-        "ajax": 'https://raw.githubusercontent.com/madsynn/kaw-reference/master/assets/ajax/data/data.json'
+        "ajax": '/kaw-reference/master/assets/ajax/data/data.json'
     } );
 } );
