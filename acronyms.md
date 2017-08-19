@@ -1,6 +1,4 @@
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-</head>
+
 
 <div class="form-group col-sm-3">
   <label>Acronym Search:</label>
