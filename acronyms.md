@@ -14,11 +14,10 @@
 
 <table id="myTable">
   <tr class="header">
-    <th style="width:30%;">Acronym / Abbreviation</th>
-    <th style="width:70%;">Definition</th>
+    <th>Acronym / Abbreviation</th>
+    <th>Definition</th>
   </tr>
   <tr><td>Def</td><td>Defense</td></tr>
-
   <tr><td>Scout Bomb</td><td>To scout someone a lot</td></tr>
   <tr><td>Assa</td><td>To Assassinate someone</td></tr>
   <tr><td>Keep</td><td>Owning an ally</td></tr>
