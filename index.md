@@ -7,8 +7,8 @@
 
 [KAW Epic Battles](/kaw-reference/eb "Kingdoms At War Epic Battles Guide")
 
-[KAW Epic Battle: TOW Tide of Woe](/kaw-reference/eb/tideofwoe "Kingdoms At War Equipment Guide")
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-104942085-1/madsynn/kaw-reference)](https://github.com/madsynn/kaw-reference)
+
+
