@@ -5,4 +5,7 @@ google_analytics: UA-104942085-1
 theme: jekyll-theme-hacker
 
 plugins:
-  - jekyll-sitemap
+   - jekyll-gist
+   - jekyll-coffeescript
+   - jekyll-assets
+   - jekyll-sitemap
