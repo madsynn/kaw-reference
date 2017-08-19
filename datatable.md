@@ -38,7 +38,7 @@ title: datatable Test
 	$(document).ready(function() {
 		$('#example').DataTable( {
 			"ajax": {
-				"url": "/kaw-reference/master/assets/data/data.txt",
+				"url": "kaw-reference/master/assets/data/data.txt",
 				"dataSrc": "demo"
 			}
 		} );
