@@ -17,22 +17,14 @@
  <table id="example" class="display" cellspacing="0" width="100%">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Extn.</th>
-                <th>Start date</th>
-                <th>Salary</th>
+    <th>Acronym / Abbreviation</th>
+    <th>Definition</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Extn.</th>
-                <th>Start date</th>
-                <th>Salary</th>
+    <th>Acronym / Abbreviation</th>
+    <th>Definition</th>
             </tr>
         </tfoot>
     </table>
@@ -105,6 +97,6 @@
 <script src="https://cdn.datatables.net/buttons/1.2.2/js/dataTables.buttons.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.bootstrap.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.colVis.min.js"></script>
-<script src="//madsynn.github.io/kaw-reference/assets/js/myjs.js"></script>
+<script src="https://raw.githubusercontent.com/madsynn/kaw-reference/master/assets/js/myjs.js"></script>
 
-https://api.github.com/legacy/repos/search/
+https://github.com/madsynn/kaw-reference/blob/master/assets/js/myjs.js
