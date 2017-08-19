@@ -1,6 +1,27 @@
-title: Kingdoms at War Guide (KAWG)
-description: This is a theme for my KAW Guide.
-show_downloads: true
-google_analytics: UA-104942085-1
-theme: jekyll-theme-hacker
+# Plugins
+gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
 
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            BlackDoc
+tagline:          Black Theme for Jekyll
+description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+url:              https://github.com/karloespiritu/blackdoc
+baseurl:          /
+
+author:
+  name:           'Karlo Espiritu'
+  url:            https://twitter.com/karloespiritu
+
+paginate:         5
+
+# Custom vars
+version:          1.0.1
+
+github:
+  repo:           https://github.com/karloespiritu/blackdoc
