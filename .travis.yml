@@ -1,7 +1,23 @@
 language: ruby
 cache: bundler
 sudo: false
-rvm: 2.2
+rvm:
+  - 2.3.3
 
-# install: script/bootstrap
+before_script:
+ - chmod +x ./script/cibuild
+ - chmod +x ./script/bootstrap
+
+install: script/bootstrap
 script: script/cibuild
+
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+sudo: false # route your build to the container-based infrastructure for a faster build
