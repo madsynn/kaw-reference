@@ -8,10 +8,11 @@
 
 
 <table id="myTable" class="display" cellspacing="0" width="100%">
+ <thead>
   <tr class="header">
-    <th>Acronym / Abbreviation</th>
-    <th>Definition</th>
+    <th>Acronym / Abbreviation</th> <th>Definition</th>
   </tr>
+  </thead>
   <tr><td>Def</td><td>Defense</td></tr>
   <tr><td>Scout Bomb</td><td>To scout someone a lot</td></tr>
   <tr><td>Assa</td><td>To Assassinate someone</td></tr>
