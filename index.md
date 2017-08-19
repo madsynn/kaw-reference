@@ -7,8 +7,3 @@
 
 [KAW Epic Battles](/kaw-reference/eb "Kingdoms At War Epic Battles Guide")
 
-
-
-
-
-
