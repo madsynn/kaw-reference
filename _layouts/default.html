@@ -20,7 +20,7 @@
 	{% seo %}
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-	<script src="/kaw-reference/master/assets/ajax/data/data.//"></script>
+	<script src=/kaw-reference/master/assets/ajax/data/data.json"></script>
   </head>
 
   <body>
@@ -57,11 +57,7 @@
 	<script src="//cdn.datatables.net/buttons/1.2.2/js/buttons.colVis.min.js"></script>
 
 	  <script type="text/javascript">
-		$(document).ready(function() {
-			$('#example').DataTable( {
-				"ajax": '/kaw-reference/master/assets/ajax/data/data.json'
-			} );
-		} );
+
 
 		function myFunction() {
 		  var input, filter, table, tr, td, i;
