@@ -1,5 +1,5 @@
 ---
-title: dataTable Test
+title: datatable Test
 ---
 
 <table id="example" class="display" width="100%">
