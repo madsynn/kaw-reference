@@ -34,12 +34,31 @@ title: datatable Test
 	</tfoot>
 </table>
 
+<table id="myTable" class="table table-bordered table-striped table-hover table-responsive">
+  <thead>
+    <tr>
+      <th> [HEADER] </th>
+      <th> [HEADER] </th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
+
+
 <script>
 	$(document).ready(function() {
 		$('#example').DataTable( {
 			"ajax": {
 				"url": "kaw-reference/master/assets/data/data.txt",
 				"dataSrc": "demo"
+			}
+		} );
+		$('#myTable').DataTable( {
+			"ajax": {
+				"url": "kaw-reference/master/assets/data/data.txt",
+				"dataSrc": "accro"
 			}
 		} );
 	} );

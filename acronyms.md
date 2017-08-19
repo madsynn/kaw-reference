@@ -8,17 +8,6 @@ title: Acronyms Reference
   <small>type in possible keywords for you search and watch them magically appear</small>
  </div>
 
-<table id="myTable" class="table table-bordered table-striped table-hover table-responsive">
-  <thead>
-    <tr>
-      <th> [HEADER] </th>
-      <th> [HEADER] </th>
-    </tr>
-  </thead>
-  <tbody>
-
-  </tbody>
-</table>
 
 <table id="myTable" class="display" cellspacing="0" width="100%">
  <thead>
