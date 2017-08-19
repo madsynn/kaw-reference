@@ -10,4 +10,4 @@
 
 
  
-[![Analytics](https://ga-beacon.appspot.com/UA-104942085-1/madsynn/kaw-reference)](https://github.com/madsynn/kaw-reference)
+[![Analytics](https://ga-beacon.appspot.com/UA-104942085-1/kaw-reference/readme)](https://github.com/madsynn/kaw-reference)
