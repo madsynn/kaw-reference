@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: eb
 title: The Netherking New EB
 ---
 
