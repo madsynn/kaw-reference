@@ -1,6 +1,7 @@
 <table id="myTable" class="display" cellspacing="0" width="100%">
+ <tbody>
   <thead>
-  <tbody>
+
     <tr class="header">
       <th>Acronym / Abbreviation</th>
       <th>Definition</th>

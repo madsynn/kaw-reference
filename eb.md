@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kingdoms At War (KAW) EB Reference Guide
+title: EB Reference Guide
 ---
 
 ## Kingdoms At War (KAW) EB Reference Guide
