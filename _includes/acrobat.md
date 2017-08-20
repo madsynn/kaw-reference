@@ -2,7 +2,7 @@
 
 <div class="table-responsive">
 
-    <table id="acronymtable" class="table display" cellspacing="0" width="100%" data-page-length="25">
+    <table id="acronymtable" class="ui celled table" cellspacing="0" width="100%" data-page-length="25">
         <thead>
             <tr>
                 <th>ACRONYM</th>
