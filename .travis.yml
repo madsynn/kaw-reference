@@ -22,3 +22,8 @@ addons:
 
 
 bundler_args: --without development debug
+
+
+branches:
+  only:
+    - master
