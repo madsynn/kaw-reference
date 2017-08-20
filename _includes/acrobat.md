@@ -42,7 +42,7 @@
 
 
 <script>
-	$(document).ready(function() {
+	$(function() {
 	    $('#acronymtable').DataTable( {
 	        "ajax": '{{ site.baseurl }}/ajax/data/acronyms.txt'
 	    } );
