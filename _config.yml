@@ -34,4 +34,7 @@ incremental: true
 collections:
   eb:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title
+
+
+
