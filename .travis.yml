@@ -3,5 +3,20 @@ cache: bundler
 sudo: false
 rvm: 2.2
 
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y libxml2-dev
+
+deploy:
+  provider: pages
+  skip_cleanup: true # always set to true
+  github_token: 24b7d3fd74263fa941f9c9cda3bff5fc6f0a2971 # Set in travis-ci.org dashboard
+  on:
+    branch: master
+
+
 install: script/bootstrap
 script: script/cibuild
+
+addons:
+  ssh_known_hosts: madsynn.github.io
