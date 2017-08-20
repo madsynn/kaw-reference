@@ -1,21 +1,17 @@
 language: ruby
 cache: bundler
 sudo: false
-rvm: 2.2
+rvm: 2.3.1
 
 before_install:
 
 
-deploy:
-  provider: pages
-  skip_cleanup: true # always set to true
-  github_token: 24b7d3fd74263fa941f9c9cda3bff5fc6f0a2971 # Set in travis-ci.org dashboard
-  on:
-    branch: master
 
+script/bootstrap
+script/cibuild
 
-install: script/bootstrap
-script: script/cibuild
+# install: script/bootstrap
+# script: script/cibuild
 
 addons:
   ssh_known_hosts: madsynn.github.io
@@ -27,3 +23,11 @@ bundler_args: --without development debug
 branches:
   only:
     - master
+
+
+deploy:
+  provider: pages
+  skip_cleanup: true # always set to true
+  github_token: 24b7d3fd74263fa941f9c9cda3bff5fc6f0a2971 # Set in travis-ci.org dashboard
+  on:
+    branch: master
