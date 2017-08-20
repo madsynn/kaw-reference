@@ -8,10 +8,6 @@ title: The Netherking New EB
 
 > **The Netherking:**
 
-![alt text][netherking]
-
--------------------
-
 ## Item Overview:
 
 | Phase | Bar / Bar Name | Item |
@@ -19,6 +15,9 @@ title: The Netherking New EB
 | Phase = 3 | 2 / Netherkings Seals | **Holy Wrath** |
 | Phase = 4 | 4 / Winghoul Formations | **Seal of Divinity** |
 | Phase = 5 | 5 / Night into day | **Orb of Illumination** |
+
+![alt text][netherking]
+
 
 ## Epic Battle The Netherking Overview:
 
