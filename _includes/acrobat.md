@@ -25,7 +25,7 @@
 <script>
 	$(function() {
 	    $('#acronymtable').DataTable( {
-	        "ajax": '{{ site.baseurl }}/public/ajax/data/acronyms.txt'
+	        "ajax": '{{ site.baseurl }}/public/ajax/data/acronyms.json'
 	    } );
 	} );
 </script>
