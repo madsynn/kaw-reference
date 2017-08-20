@@ -36,5 +36,11 @@ collections:
     output: true
     permalink: /:collection/:title
 
-
+defaults:
+  -
+    scope:
+      path: ""
+      type: "eb"
+    values:
+      layout: "eb"
 
