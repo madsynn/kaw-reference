@@ -2,7 +2,7 @@
 
 <div class="table-responsive">
 
-    <table id="acronymtable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+    <table id="acronymtable" class="table table-striped table-bordered" cellspacing="0" width="100%" data-page-length="25">
         <thead>
             <tr>
                 <th>ACRONYM</th>
@@ -25,17 +25,7 @@
 <script>
 	$(function() {
 	    $('#acronymtable').DataTable( {
-                    "columnDefs": [
-                                            {
-                                                "targets": [ 2 ],
-                                                "visible": false,
-                                                "searchable": true
-                                            },
-                                            {
-                                                "targets": [ 3 ],
-                                                "visible": false
-                                            }
-                                        ],
+
 	        "ajax": '{{ site.baseurl }}/public/ajax/data/acronyms.json'
 	    } );
 	} );
