@@ -1,6 +1,6 @@
 
 
-
+<div class="table-responsive">
 
 <table id="acronymtable" class="display" cellspacing="0" width="100%">
     <thead>
@@ -19,7 +19,7 @@
     </tfoot>
 </table>
 
-
+</div>
 
 
 
