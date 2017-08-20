@@ -12,11 +12,21 @@ subtitle: hello
 
 
 
-{% for eb in site.ebs %}
-  <h2>{{ eb.title }}</h2>
-  <p> </p>
 
 
+<div class="related">
+  <h2>Epic Battles</h2>
+  <ul class="related-posts">
+    {% for eb in site.eb limit:10 %}
+      <li>
+        <h3>
+          <a href="{{ eb.url }}">
+            {{ eb.title }}
+            <small>{{ eb.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
 
-  {% endfor %}
-{% endfor %}
+</div>
