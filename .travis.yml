@@ -20,3 +20,6 @@ script: script/cibuild
 
 addons:
   ssh_known_hosts: madsynn.github.io
+
+
+bundler_args: --without development debug
