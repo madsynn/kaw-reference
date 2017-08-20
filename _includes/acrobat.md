@@ -25,6 +25,17 @@
 <script>
 	$(function() {
 	    $('#acronymtable').DataTable( {
+                    "columnDefs": [
+                                            {
+                                                "targets": [ 2 ],
+                                                "visible": false,
+                                                "searchable": true
+                                            },
+                                            {
+                                                "targets": [ 3 ],
+                                                "visible": false
+                                            }
+                                        ],
 	        "ajax": '{{ site.baseurl }}/public/ajax/data/acronyms.json'
 	    } );
 	} );
