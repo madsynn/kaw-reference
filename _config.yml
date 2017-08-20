@@ -28,3 +28,9 @@ github:
   repo:           https://github.com/madsynn/kaw-reference.git
 
 encoding: utf-8
+
+
+collections:
+  eb:
+    output: true
+    permalink: /:collection/:name
