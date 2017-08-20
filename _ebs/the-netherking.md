@@ -2,6 +2,7 @@
 layout: eb
 title: The Netherking New EB
 date: 2017-08-20
+categories: epic battles
 published: false
 ---
 
