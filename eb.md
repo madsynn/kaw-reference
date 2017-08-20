@@ -14,10 +14,9 @@ subtitle: hello
 
 {% for eb in site.ebs %}
   <h2>{{ eb.title }}</h2>
-  <p>Performed by {{ eb.artist }}{% if eb.director %}, directed by {{ eb.director }}{% endif %}</p>
-  {% for work in eb.works %}
-    <h3>{{ eb.title }}</h3>
-    <p>Composed by {{ work.composer }}</p>
+  <p> </p>
+
+
 
   {% endfor %}
 {% endfor %}
