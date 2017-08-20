@@ -2,7 +2,7 @@
 
 
 
-<table id="example" class="display" cellspacing="0" width="100%">
+<table id="acronymtable" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
             <th>ACRONYM</th>
@@ -43,8 +43,8 @@
 
 <script>
 	$(document).ready(function() {
-	    $('#example').DataTable( {
-	        "ajax": '../ajax/data/arrays.txt'
+	    $('#acronymtable').DataTable( {
+	        "ajax": '{{ site.baseurl }}/ajax/data/acronyms.txt'
 	    } );
 	} );
 </script>
