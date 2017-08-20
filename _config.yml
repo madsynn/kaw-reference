@@ -9,10 +9,10 @@ show_downloads: false
 # Permalinks
 permalink:        pretty
 
-title: \[ KAWG \]
+title: '[ KAWG ]'
 tagline:  Kingdoms At War Guide
 description:      "This is a Guide / Overview of helpful stuff to make the gamers of Kingdoms At war lives a little bit easier..."
-url:              https://madsynn.github.io/kaw-reference/
+url:  https://madsynn.github.io/kaw-reference/
 baseurl:          /
 excerpt_separator: "\n\n"
 
