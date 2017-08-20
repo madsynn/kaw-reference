@@ -29,6 +29,7 @@ github:
 
 encoding: utf-8
 
+incremental: true
 
 collections:
   eb:
