@@ -1,4 +1,33 @@
- html { font-family: "PT Sans", Helvetica, Arial, sans-serif; }
+/*
+______ _            _   ______
+| ___ \ |          | |  |  _  \
+| |_/ / | __ _  ___| | _| | | |___   ___
+| ___ \ |/ _` |/ __| |/ / | | / _ \ / __|
+| |_/ / | (_| | (__|   <| |/ / (_) | (__
+\____/|_|\__,_|\___|_|\_\___/ \___/ \___|
+
+ *
+ * Designed, built, and released under MIT license by @karloespiritu.
+ */
+
+/*
+ * Contents
+ *
+ * Global resets
+ * Sidebar
+ * Container
+ * Reverse layout
+ * Themes
+ * Scrollbar
+ */
+
+/*
+ * Global resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+html { font-family: "PT Sans", Helvetica, Arial, sans-serif; }
 body { color: #848482; background-color: #000000; }
 h1,
 h2,
@@ -183,7 +212,6 @@ a.sidebar-nav-item:focus { text-decoration: underline; }
 ::-webkit-scrollbar-thumb { background: #222; border: thin solid #222; border-radius: 10px; }
 ::-webkit-scrollbar-thumb:hover { background: #7d7d7d; }
 
-
 table.dataTable.display tbody tr.odd  {
     background-color: #f1f1f1
 }
@@ -201,4 +229,3 @@ tbody tr:nth-child(even) td,
 tbody tr:nth-child(even) th {
    background-color: #f1f1f1
 }
-
