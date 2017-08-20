@@ -1,6 +1,7 @@
 ---
 layout: page
 title: EB Reference Guide
+subtitle: hello
 ---
 
 ## Kingdoms At War (KAW) EB Reference Guide
@@ -27,5 +28,5 @@ title: EB Reference Guide
       </li>
     {% endfor %}
   </ul>
-  {% include footer_advert.html %}
+
 </div>
