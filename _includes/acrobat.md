@@ -22,25 +22,6 @@
 </div>
 
 
-
-
-
-{{ site.baseurl }}/public/ajax/data/acronyms.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <script>
 	$(function() {
 	    $('#acronymtable').DataTable( {
