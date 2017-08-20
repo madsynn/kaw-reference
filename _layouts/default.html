@@ -11,6 +11,14 @@
       {{ content }}
     </div>
 
-    {% include footer.html %}
+     {% if page.title == "Acronyms" %}
+	<script src="{{ site.baseurl }}/public/js/jquery.dataTables.min.js"></script>
+	<script src="{{ site.baseurl }}/public/js/dataTables.bootstrap.min.js"></script>
+	<script src="{{ site.baseurl }}/public/js/dataTables.buttons.min.js"></script>
+	<script src="{{ site.baseurl }}/public/js/buttons.bootstrap.min.js"></script>
+	<script src="{{ site.baseurl }}/public/js/buttons.colVis.min.js"></script>
+	<script src="{{ site.baseurl }}/public/js/bootstrap.min.js"></script>
+	<script src="{{ site.baseurl }}/public/js/fileinput.js"></script>
+     {% endif %}
   </body>
 </html>
