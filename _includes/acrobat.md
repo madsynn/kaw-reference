@@ -25,8 +25,6 @@
 
 
 
-{{ site.baseurl }}
-{{ site.baseurl }}/blob/
 {{ site.baseurl }}/public/ajax/data/acronyms.txt
 
 
