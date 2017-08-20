@@ -38,8 +38,8 @@ incremental: true
 collections:
   eb:
     output: true
-    permalink: /:collection/:title
-
+    permalink: /:eb/:name
+    # permalink: /:eb/:eb
 defaults:
   -
     scope:
