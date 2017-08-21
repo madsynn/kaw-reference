@@ -34,10 +34,3 @@ collections:
    permalink: /:collection/:title
 
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "ebs"
-    values:
-      layout: "eb"
