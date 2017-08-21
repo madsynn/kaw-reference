@@ -27,3 +27,8 @@ version:          1.0.1
 
 github:
   repo:           https://github.com/karloespiritu/blackdoc
+
+
+collections:
+  ebs:
+   permalink: /:collection/:title
