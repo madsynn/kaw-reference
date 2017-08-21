@@ -12,12 +12,13 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
 <div class="related">
     <h2>Epic Battles</h2>
     <ul class="related-posts">
-        {% for ebs in site.ebs %}
+        {% for eb in site.collections.ebs %}
         <li>
         <div><img src="" /></div>
             <h3>
                 <a href="{{ eb.url }}">
                   {{ eb.title }}
+                   {{ site.collections.eb.relative_path }}
                   </a>
             </h3> <small>{{ eb.date | date_to_string }}</small>
         </li>
