@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-subtitle: Holy smoke it worked
+subtitle: Info about the Kingdoms at War Guide
+tags: kawg
 ---
 
 ## Kingdoms At War (KAW) Reference Guide
