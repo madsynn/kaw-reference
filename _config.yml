@@ -38,3 +38,8 @@ collections:
   ebs:
     output: true
     permalink: /:collection/:title
+
+
+
+plugins:
+  - jekyll-sitemap

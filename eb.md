@@ -13,7 +13,7 @@ tags: KAWG, KAW, kingdoms at war, ebs, epic battles
 <div class="related">
     <h2>Epic Battles</h2>
     <ul class="related-posts">
-        {% for eb in site.ebs limit:10 %}
+        {% for ebs in site.eb limit:10 %}
         <li>
         <div><img src="" /></div>
             <h3>
