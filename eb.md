@@ -16,7 +16,7 @@ subtitle: hello
 <div class="related">
   <h2>Epic Battles</h2>
   <ul class="related-posts">
-    {% for eb in site.ebs limit:10 %}
+    {% for eb in site.eb limit:10 %}
       <li>
         <h3>
           <a href="{{ eb.url }}">

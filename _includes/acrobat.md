@@ -26,7 +26,7 @@
 	$(function() {
 	    $('#acronymtable').DataTable( {
                     "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
-                        "columns": [{ "width": "30%" }, { "width": "70%" } ],
+                        "columns": [{ "width": "30%" }, { "width": "70%" }],
 	           "ajax": '{{ site.baseurl }}/public/ajax/data/acronyms.json'
 	     });
 	} );
