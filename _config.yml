@@ -17,9 +17,9 @@ url:  https://madsynn.github.io/kaw-reference/
 baseurl:          /
 excerpt_separator: <!--more-->
 
-# author:
-#   name:           'Affordable Programmer'
-#   url:            https://twitter.com/AffordProg
+author:
+  name:           'Affordable Programmer'
+  url:            https://twitter.com/AffordProg
 
 # paginate:         5
 
@@ -27,14 +27,13 @@ liquid:
   error_mode: warn
 
 # Custom vars
-version:          1.0.1
+# version:          1.0.1
 
 github:
   repo:           https://github.com/madsynn/kaw-reference.git
 
 encoding: utf-8
 
-incremental: true
 
 collections:
   eb:
@@ -44,7 +43,7 @@ collections:
 defaults:
   -
     scope:
-      path: "eb"
+      path: "ebs"
       type: "eb"
     values:
       layout: "eb"
