@@ -3,6 +3,7 @@ gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
 
 # Dependencies
 highlighter:      rouge
+google_analytics: UA-104942085-1
 
 # Permalinks
 permalink:        pretty
