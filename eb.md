@@ -13,15 +13,15 @@ tags: KAWG, KAW, kingdoms at war, ebs, epic battles
 <div class="related">
     <h2>Epic Battles</h2>
     <ul class="related-posts">
-        {% for ebs in site.eb limit:10 %}
+        {% for eb in site.ebs limit:10 %}
         <li>
+        <div><img src="" /></div>
             <h3>
                 <a href="{{ eb.url }}">
-                {{ eb.title }}
-
-
-                </a>
+                  {{ eb.title }}
+                  </a>
             </h3> <small>{{ eb.date | date_to_string }}</small>
+
         </li>
         {% endfor %}
     </ul>
