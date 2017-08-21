@@ -21,9 +21,9 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
                   {{ eb.title }}
 
                   </a>
-{{ page.path }}
+
             </h2>
-            <br>
+            <br style="clear:both" />
        <small>{{ eb.date | date_to_string }}</small>
         </li>
         {% endfor %}
