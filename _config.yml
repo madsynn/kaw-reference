@@ -35,6 +35,6 @@ github:
   repo:           https://github.com/madsynn/kaw-reference.git
 
 collections:
-  eb:
+  ebs:
     output: true
     permalink: /:collection/:title
