@@ -1,7 +1,6 @@
 ---
-layout: eb
+layout: page
 title: EB Reference Guide
-subtitle: hello
 ---
 
 ## Kingdoms At War (KAW) EB Reference Guide
@@ -17,7 +16,7 @@ subtitle: hello
             <h3>
                 <a href="{{ eb.url }}">
                 {{ eb.title }}
-                 {{ eb.subtitle }}
+
                 <small>{{ eb.date | date_to_string }}</small>
                 </a>
             </h3>
