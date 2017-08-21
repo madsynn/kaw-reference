@@ -12,7 +12,7 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
 <div class="related">
     <h2>Epic Battles</h2>
     <ul class="related-posts">
-        {% for eb in paginator.ebs %}
+        {% for eb in site.ebs %}
         <li>
         <div><img src="" /></div>
             <h3>
