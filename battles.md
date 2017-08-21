@@ -2,12 +2,6 @@
 layout: page
 title: EB Reference Guide
 description: This is a list of Kingdoms at War Epic Battles  full of usefule tips and instructions on how to beat them.
-tags: [ ".vimrc", "plugins", "spf13-vim", "vim" ]
-lastmod: 2015-12-23
-categories:
-  - "Development"
-  - "VIM"
-slug: "spf13-vim-3-0-release-and-new-website"
 ---
 
 ## Kingdoms At War (KAW) EB Reference Guide

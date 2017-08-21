@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle: Info about the Kingdoms at War Guide
-tags: kawg
+tags: [ "kawg", "kaw", "kingdoms at war", "kaw guide" ]
 ---
 
 ## Kingdoms At War (KAW) Reference Guide

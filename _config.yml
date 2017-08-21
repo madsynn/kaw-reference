@@ -19,7 +19,8 @@ url:  https://madsynn.github.io/kaw-reference/
 baseurl:          /
 excerpt_separator: <!--more-->
 
-
+permalinks:
+  eb: /:collection/:year/:month/:title/
 
 author:
   name:           'Affordable Programmer'
