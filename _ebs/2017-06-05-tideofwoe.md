@@ -5,6 +5,8 @@ title: Tide of Woe
 ---
 
 
+{{ "/assets/style.css" | relative_url }}
+
 ## TIDE OF WOE
 ### Epic Battle Details
 ![tow](https://cloud.githubusercontent.com/assets/23286307/23721934/a6f00c42-0400-11e7-9206-8baac3d64b58.png)
