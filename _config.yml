@@ -4,7 +4,8 @@ gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
 # Dependencies
 highlighter:      rouge
 google_analytics: UA-104942085-1
-show_downloads: false
+
+encoding: utf-8
 
 # Permalinks
 permalink:        pretty
@@ -16,6 +17,7 @@ tags: "kaw, kingdoms at war, kawg, kingdoms at war guide, epic battles guides, e
 url:  https://madsynn.github.io/kaw-reference/
 baseurl:          /
 excerpt_separator: <!--more-->
+
 
 author:
   name:           'Affordable Programmer'
@@ -31,10 +33,6 @@ liquid:
 
 github:
   repo:           https://github.com/madsynn/kaw-reference.git
-
-encoding: utf-8
-relative_permalinks: true
-highlighter: rouge
 
 collections:
   eb:
