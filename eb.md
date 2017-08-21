@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: eb
 title: EB Reference Guide
 subtitle: hello
 ---
@@ -17,6 +17,7 @@ subtitle: hello
             <h3>
                 <a href="{{ eb.url }}">
                 {{ eb.title }}
+                 {{ eb.subtitle }}
                 <small>{{ eb.date | date_to_string }}</small>
                 </a>
             </h3>
