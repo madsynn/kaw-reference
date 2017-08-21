@@ -1,7 +1,7 @@
 ---
 layout: eb
 title: Tide of Woe
-permalink: /eb/
+permalink: /:eb/:title
 ---
 
 
