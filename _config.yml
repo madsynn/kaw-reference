@@ -19,8 +19,6 @@ url:  https://madsynn.github.io/kaw-reference/
 baseurl:          /
 excerpt_separator: <!--more-->
 
-permalinks:
-  eb: /:collection/:year/:month/:title/
 
 author:
   name:           'Affordable Programmer'
@@ -41,13 +39,10 @@ collections:
   ebs:
    permalink: /:collection/:title
 
+permalinks:
+  eb: /:collection/:year/:month/:title/
 
-defaults:
-  - scope:
-      path: ""
-      type: ebs
-    values:
-      layout: eb
+
 
 plugins:
   - jekyll-sitemap
