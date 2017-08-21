@@ -9,6 +9,7 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
 <p class="message">
     Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
+
 <div class="related">
     <h2>Epic Battles</h2>
     <ul class="related-posts">
