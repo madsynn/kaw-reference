@@ -33,18 +33,10 @@ github:
   repo:           https://github.com/madsynn/kaw-reference.git
 
 encoding: utf-8
-
+relative_permalinks: true
+highlighter: rouge
 
 collections:
   eb:
     output: true
     permalink: /:collection/:title
-
-defaults:
-  -
-    scope:
-      path: "eb"
-      type: "eb"
-    values:
-      layout: "eb"
-      author: "MaDsYnN"
