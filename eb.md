@@ -3,6 +3,7 @@ layout: page
 title: EB Reference Guide
 description: This is a list of Kingdoms at War Epic Battles  full of usefule tips and instructions on how to beat them.
 tags: KAWG, KAW, kingdoms at war, ebs, epic battles
+categories:
 ---
 
 ## Kingdoms At War (KAW) EB Reference Guide
@@ -13,7 +14,7 @@ tags: KAWG, KAW, kingdoms at war, ebs, epic battles
 <div class="related">
     <h2>Epic Battles</h2>
     <ul class="related-posts">
-        {% for eb in site.eb limit:10 %}
+        {% for eb in site.ebs limit:10 %}
         <li>
             <h3>
                 <a href="{{ eb.url }}">
