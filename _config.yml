@@ -38,15 +38,15 @@ incremental: true
 collections:
   eb:
     output: true
-    permalink: /:eb/:name
+     permalink: /:collection/:title
     # permalink: /:eb/:eb
-defaults:
-  -
-    scope:
-      path: "eb"
-      type: "eb"
-    values:
-      layout: "eb"
-      author: "MaDsYnN"
-      category: "epic battles"
+# defaults:
+#   -
+#     scope:
+#       path: "eb"
+#       type: "eb"
+#     values:
+#       layout: "eb"
+#       author: "MaDsYnN"
+#       category: "epic battles"
 
