@@ -21,10 +21,10 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
                   {{ eb.title }}
 
                   </a>
-                  <small>{{ eb.date | date_to_string }}</small>
-            </h2>
 
-        {{ eb.excerpt }}
+            </h2>
+            <br>
+       <small>{{ eb.date | date_to_string }}</small>
         </li>
         {% endfor %}
     </ul>
