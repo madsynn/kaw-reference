@@ -37,9 +37,17 @@ github:
 collections:
   ebs:
     output: true
-    permalink: /:collection/:title
+#    permalink: /:collection/:title
 
 
+defaults:
+  - scope:
+      path: ""
+      type: ebs
+    values:
+      layout: eb
 
 plugins:
   - jekyll-sitemap
+
+
