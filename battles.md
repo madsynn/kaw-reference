@@ -15,13 +15,14 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
     <ul class="related-posts">
         {% for eb in site.ebs %}
         <li>
-        <div><img src="" /></div>
+        <div><img src="http://via.placeholder.com/150x150"></div>
             <h3>
                 <a href="{{ eb.url }}">
                   {{ eb.title }}
-                {{ site.ebs.first.relative_path }}
+
                   </a>
             </h3> <small>{{ eb.date | date_to_string }}</small>
+             {{ post.excerpt }}
         </li>
         {% endfor %}
     </ul>
