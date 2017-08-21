@@ -37,7 +37,7 @@ collections:
 defaults:
   -
     scope:
-      path: "/_ebs/"
+      path: ""
       type: "ebs"
     values:
       layout: "eb"
