@@ -7,19 +7,3 @@ layout: default
   <span class="post-date">{{ eb.date | date_to_string }}</span>
   {{ content }}
 </div>
-
-<div class="related">
-  <h2>Related Epic Battles</h2>
-  <ul class="related-posts">
-    {% for eb in site.related_ebs limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ eb.url }}">
-            {{ eb.title }} <small>{{ eb.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-  {% include footer_advert.html %}
-</div>
