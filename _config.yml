@@ -43,7 +43,7 @@ collections:
 defaults:
   -
     scope:
-      path: "ebs"
+      path: "eb"
       type: "eb"
     values:
       layout: "eb"
