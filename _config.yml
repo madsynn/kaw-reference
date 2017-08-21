@@ -31,6 +31,14 @@ github:
 
 collections:
   ebs:
-   permalink: /:collection/:title
+   permalink: /:site/:collection/:title
 
 
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "ebs"
+    values:
+      layout: "eb"
