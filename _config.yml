@@ -13,10 +13,12 @@ permalink:        pretty
 title: '[ KAWG ]'
 tagline:  Kingdoms At War Guide
 description:      "Kingdoms at War Guide & Overview of helpful stuff to make the gamers of Kingdoms At war lives a little bit easier..."
-tags: "kaw, kingdoms at war, kawg, kingdoms at war guide, epic battles guides, eb guides"
+# tags: "kaw, kingdoms at war, kawg, kingdoms at war guide, epic battles guides, eb guides"
+
 url:  https://madsynn.github.io/kaw-reference/
 baseurl:          /
 excerpt_separator: <!--more-->
+
 
 
 author:
