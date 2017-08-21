@@ -36,8 +36,7 @@ github:
 
 collections:
   ebs:
-    output: true
-#    permalink: /:collection/:title
+   permalink: /:collection/:title
 
 
 defaults:

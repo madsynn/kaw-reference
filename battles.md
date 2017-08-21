@@ -21,23 +21,10 @@ tags: KAWG, KAW, kingdoms at war, ebs, epic battles
                   {{ eb.title }}
                   </a>
             </h3> <small>{{ eb.date | date_to_string }}</small>
-
         </li>
         {% endfor %}
     </ul>
 </div>
 
 
-<div class="posts">
-   {% for eb in ebs %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ eb.url | remove_first: '/'}}">
-        {{ eb.title }}
-      </a>
-    </h1>
-    <span class="post-date">{{ eb.date | date_to_string }}</span>
-    {{ eb.content }}
-  </div>
-  {% endfor %}
-</div>
+
