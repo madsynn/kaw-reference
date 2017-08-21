@@ -1,5 +1,5 @@
 ---
-layout: eb
+layout: post
 title: Tide of Woe
 
 ---
