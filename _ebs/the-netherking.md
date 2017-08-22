@@ -9,7 +9,7 @@ published: true
 ## The Netherking
 ### Epic Battle Details
 
-> **The Netherking:**
+
 
 ## Item Overview:
 
@@ -19,7 +19,11 @@ published: true
 | Phase = 4 | 4 / Winghoul Formations | **Seal of Divinity** |
 | Phase = 5 | 5 / Night into day | **Orb of Illumination** |
 
+
+
 ![alt text][netherking]
+
+
 
 
 ## Epic Battle The Netherking Overview:

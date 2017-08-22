@@ -2,6 +2,7 @@
 layout: eb
 title: Scionic Storm
 date: 2017-06-05
+published: true
 ---
 
 ## Scionic Storm
