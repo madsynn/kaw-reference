@@ -1,7 +1,9 @@
 ---
 layout: eb
 title: Tide of Woe
-
+date: 2017-06-05
+categories:
+published: true
 ---
 
 
