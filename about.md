@@ -12,11 +12,8 @@ tags: [ "kawg", "kaw", "kingdoms at war", "kaw guide" ]
 [KAW Epic Battles](/kaw-reference/eb "Kingdoms At War Epic Battles Guide")
 
 
-<p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
 ## About KAWG
 
-Some relevant information about this project:
+
 
