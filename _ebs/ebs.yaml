@@ -1,0 +1,13 @@
+collections:
+  ebs:
+   permalink: /:collection/:title/
+
+
+
+defaults:
+  -
+    scope:
+      path: "/ebs/"
+      type: "ebs"
+    values:
+      layout: "eb"
