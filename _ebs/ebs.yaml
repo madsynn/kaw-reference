@@ -1,0 +1,6 @@
+defaults:
+  - scope:
+      path: "/ebs/"
+      type: ebs
+    values:
+      layout: eb
