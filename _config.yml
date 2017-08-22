@@ -33,3 +33,11 @@ collections:
   ebs:
     output: true
     permalink: /ebs/:path/
+
+
+defaults:
+  - scope:
+      path: "/ebs/"
+      type: ebs
+    values:
+      layout: eb
