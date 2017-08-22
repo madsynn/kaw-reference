@@ -32,4 +32,4 @@ github:
 collections:
   ebs:
     output: true
-    permalink: /cupcakes/:path/
+    permalink: /ebs/:path/
