@@ -9,7 +9,7 @@ google_analytics: UA-104942085-1
 permalink:        pretty
 
 # Setup
-title: '[ KAWG ]'
+title: 'KAWG'
 tagline:  Kingdoms At War Guide
 description:      "Kingdoms at War Guide & Overview of helpful stuff to make the gamers of Kingdoms At war lives a little bit easier..."
 url:  https://madsynn.github.io/kaw-reference/
@@ -35,9 +35,4 @@ collections:
     permalink: /ebs/:path/
 
 
-defaults:
-  - scope:
-      path: "/ebs/"
-      type: ebs
-    values:
-      layout: eb
+
