@@ -1,24 +1,18 @@
 ---
-layout: eb
 title: The Barren Orchard
-date: 2017-06-05
+layout: eb
 categories:
-published: false
+published: true
 ---
 
-## Scionic Storm
+## The Barren Orchard
 ### Epic Battle Details
 
-![hawthorn](https://cloud.githubusercontent.com/assets/2112435/23970739/993f4622-0990-11e7-823c-1406005033d8.jpg)
+![hawthorn]()
 
 | Bar Name | Phase | Action | Item: | Needed |
 | --- | --- | --- | --- | --- |
-| Oozing Bane | Phase 1 First Bar | Attack & Assasinate | | |
-| Children of the Pod | Phase 1 Main Bar | Attack & Assasinate | | |
-| Pupal | Phase 2 Second Bar | Attack & Assasinate | | Searing Sickle |
-| Children of the Pod | Phase 2 Main Bar | Attack & Assasinate | | |
-| Podlings | Phase 3 First Bar | Use Item | Orb Of Illumination | |
-| Children of the Pod | Phase 3 Main Bar | Attack & Assasinate | | |
+
 
 > Drops Torrent Talisman
 
