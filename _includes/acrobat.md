@@ -25,7 +25,7 @@
 <script>
 	$(function() {
 	    $('#acronymtable').DataTable( {
-                     "sDom": '<"H"lr>t<"F"ip>',
+                     "sDom": '<fl<t>ip>',
                     language: {
                         search: "_INPUT_",
                         searchPlaceholder: "Search..."
