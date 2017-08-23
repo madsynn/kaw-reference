@@ -2,5 +2,19 @@
 layout: default
 ---
 
-{{  page.title }}
-{{ site.ebs[page.title] }}
+<div class="page">
+  <h1 class="page-title">{{  post.title }}</h1>
+
+<h4>{{ site.ebs[page.title] }}</h4>
+
+  <span class="post-date">{{ post.date }}</span>
+
+  {{ content }}
+
+<br style="clear:both" />
+<div class="advert">
+{% include footer_advert.html %}
+</div>
+
+
+</div>
