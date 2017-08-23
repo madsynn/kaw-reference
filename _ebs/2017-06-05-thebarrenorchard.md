@@ -1,6 +1,6 @@
 ---
 title: The Barren Orchard
-layout: eb
+layout: epic-battle
 categories:
 published: true
 ---

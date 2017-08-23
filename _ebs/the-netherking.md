@@ -1,5 +1,5 @@
 ---
-layout: eb
+layout: epic-battle
 title: The Netherking New EB
 subtitle: Epic Battle Details
 date: 2017-08-20

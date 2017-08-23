@@ -1,5 +1,5 @@
 ---
-layout: eb
+layout: epic-battle
 title: Scionic Storm
 subtitle: Epic Battle Details
 description: Sionic storm epic battle guide for the kingdoms at war game
