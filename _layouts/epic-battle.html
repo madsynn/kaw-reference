@@ -4,6 +4,7 @@ layout: default
 <header id="post-header">
     <h1 id="post-title">{{ eb.title }}</h1>
     <h4 id="post-subtitle">Epic Battle Overview</h4>
+    <span class="post-date">{{ eb.date | date_to_string }}</span>
 </header>
 <div class="page">
 
@@ -16,13 +17,4 @@ layout: default
   </div>
 
 
-</div>
-
-<div class="post">
-  <h1 class="post-title">{{ eb.title }}</h1>
-  <span class="post-date">{{ eb.date | date_to_string }}</span>
-  {{ content }}
-
-<hr />
- {% include footer_advert.html %}
 </div>
