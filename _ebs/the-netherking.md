@@ -1,15 +1,11 @@
 ---
 layout: eb
 title: The Netherking New EB
+subtitle: Epic Battle Details
 date: 2017-08-20
 categories: nethers
 published: true
 ---
-
-## The Netherking
-### Epic Battle Details
-
-
 
 ## Item Overview:
 

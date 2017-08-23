@@ -389,6 +389,11 @@ tbody tr:nth-child(even) th {
   table {
     width: 1000px!important;
   }
+  .page,
+.post {
+  margin-bottom: 4em;
+  width: 60rem;
+}
 }
 
 
@@ -397,3 +402,6 @@ tbody tr:nth-child(even) th {
 @media all and (min-width: 480px) and (max-width: 768px) { }
 
 @media all and (max-width: 480px) { }
+
+
+

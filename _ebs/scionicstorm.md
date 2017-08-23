@@ -1,12 +1,11 @@
 ---
 layout: eb
 title: Scionic Storm
+subtitle: Epic Battle Details
 date: 2017-06-05
 published: true
 ---
 
-## Scionic Storm
-### Epic Battle Details
 
 ![hawthorn](https://cloud.githubusercontent.com/assets/2112435/23970739/993f4622-0990-11e7-823c-1406005033d8.jpg)
 
