@@ -2,13 +2,14 @@
 layout: epic-battle
 title: Tide of Woe
 subtitle: Epic Battle Details
-description: TTide of Woe epic battle guide for the kingdoms at war game
+description: Tide of Woe epic battle guide for the kingdoms at war game
+photo_path: https://cloud.githubusercontent.com/assets/23286307/23721934/a6f00c42-0400-11e7-9206-8baac3d64b58.png
 published: true
 ---
 
 
-## TIDE OF WOE
-### Epic Battle Details
+<img src="{{ page.photo_path }}" alt="{{ page.name }}">
+
 ![tow](https://cloud.githubusercontent.com/assets/23286307/23721934/a6f00c42-0400-11e7-9206-8baac3d64b58.png)
 
 | Bar Name | Task | Action | Item: |
