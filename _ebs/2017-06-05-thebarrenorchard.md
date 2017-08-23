@@ -1,5 +1,9 @@
 ---
-
+layout: eb
+title: The Barren Orchard
+date: 2017-06-05
+categories:
+published: false
 ---
 
 ## Scionic Storm
