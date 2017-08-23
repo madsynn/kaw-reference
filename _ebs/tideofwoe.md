@@ -1,8 +1,8 @@
 ---
 layout: epic-battle
 title: Tide of Woe
-date: 2017-06-05
-categories:
+subtitle: Epic Battle Details
+description: TTide of Woe epic battle guide for the kingdoms at war game
 published: true
 ---
 
