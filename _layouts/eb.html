@@ -9,7 +9,7 @@ layout: default
 
   <span class="post-date">{{ post.date }}</span>
 
-
+{% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
 
 <br style="clear:both" />
 <div class="advert">
