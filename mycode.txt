@@ -1,6 +1,6 @@
 
 
-
+ghomorax-of-the-highlands
 usaris-the-troll-king
 thorak-the-destroyer
 apheriun-of-exile
@@ -16,7 +16,8 @@ wrath-of-the-sveruganti
 marrox-the-confined
 
 
-
+![haunting-the-escape](https://user-images.githubusercontent.com/2112435/29606455-9ac139a8-87ab-11e7-80a1-1cb16b6e7b62.png)
+![haunting-the-escape-aqua](https://user-images.githubusercontent.com/2112435/29606456-9ac514e2-87ab-11e7-866a-98c4600e69b1.png)
 ![moutos-the-malevolent-lg](https://user-images.githubusercontent.com/2112435/29604736-b441e270-87a5-11e7-98e1-ff9336d1be4e.jpg)
 ![moutos-the-malevolent](https://user-images.githubusercontent.com/2112435/29604792-dddd23c4-87a5-11e7-8843-8c63100b8bce.png)
 ![scrag-the-bloodless](https://user-images.githubusercontent.com/2112435/29604607-47069bc4-87a5-11e7-9d7c-42e2feba76f6.png)
@@ -32,3 +33,5 @@ marrox-the-confined
 ![hawthorn-the-wretched](https://user-images.githubusercontent.com/2112435/29604614-4728f200-87a5-11e7-9739-68e51a340978.png)
 ![jorathe-the-silver](https://user-images.githubusercontent.com/2112435/29604616-4734b66c-87a5-11e7-98cf-43f6f75dcf5d.png)
 ![marrox-the-confined](https://user-images.githubusercontent.com/2112435/29604617-47373090-87a5-11e7-876c-cbb6029966ca.png)
+![ghomorax-of-the-highlands](https://user-images.githubusercontent.com/2112435/29605581-a3c7526a-87a8-11e7-96bb-676192d0f6f7.png)
+

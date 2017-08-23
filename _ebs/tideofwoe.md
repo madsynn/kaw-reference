@@ -9,7 +9,6 @@ category:
 published: true
 ---
 
-<img src="{{ page.photo_path }}" alt="{{ page.name }}">
 
 ![tow](https://cloud.githubusercontent.com/assets/23286307/23721934/a6f00c42-0400-11e7-9206-8baac3d64b58.png)
 
