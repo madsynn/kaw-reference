@@ -1,54 +1,35 @@
-# Plugins
-gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
-
-# Dependencies
-highlighter:      rouge
-google_analytics: UA-104942085-1
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title: 'KAWG'
-tagline:  Kingdoms At War Guide
-description:      "Kingdoms at War Guide & Overview of helpful stuff to make the gamers of Kingdoms At war lives a little bit easier..."
-url:  https://madsynn.github.io/kaw-reference/
-baseurl:          /
-
+---
 author:
-  name:           'Affordable Programmer'
-  url:            https://twitter.com/AffordProg
-
-paginate:         5
-
-# Custom vars
-version:          1.0.1
-
-github:
-  repo:           https://github.com/karloespiritu/blackdoc
-
-
-
+  name: "Affordable Programmer"
+  url: "https://twitter.com/AffordProg"
+baseurl: /
 collections:
   ebs:
     output: true
-    permalink: /ebs/:path/
-
-
-
+    permalink: "/ebs/:path/"
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
-      type: "posts"
+      type: ebs
     values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "ebs"
-    values:
-      layout: "eb"
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+      layout: epic-battle
+description: "Kingdoms at War Guide & Overview of helpful stuff to make the gamers of Kingdoms At war lives a little bit easier..."
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-github-metadata
+
+github:
+  repo: "https://github.com/karloespiritu/blackdoc"
+
+google_analytics: UA-104942085-1
+highlighter: rouge
+paginate: 5
+permalink: pretty
+tagline: "Kingdoms At War Guide"
+title: KAWG
+url: "https://madsynn.github.io/kaw-reference/"
+version: "1.0.1"
+
