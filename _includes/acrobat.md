@@ -25,7 +25,11 @@
 <script>
 	$(function() {
 	    $('#acronymtable').DataTable( {
-                    "dom": 'lrtip',
+                    "dom": '<lf<t>ip>',
+                    language: {
+                        search: "_INPUT_",
+                        searchPlaceholder: "Search..."
+                    },
                     "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
                         "columns": [{ "width": "30%" }, { "width": "70%" }],
 	           "ajax": '{{ site.baseurl }}/public/ajax/data/acronyms.json'
