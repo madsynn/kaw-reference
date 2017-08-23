@@ -13,10 +13,10 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
 <div class="related">
     <h1>Epic Battles</h1>
     <ul class="related-posts">
-        {% for eb in site.ebs %}
+        {% for eb in site.ebs  | sort: category %}
         <li>
             {% if eb.photo_path %}
-                <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left; width:75px;" itemprop="image">
+                <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left; width:75px; margin:5px;" itemprop="image">
             {% endif %}
             <h2 style="float:left">
                 <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style="">
