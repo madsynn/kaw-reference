@@ -1,7 +1,7 @@
 ---
 title: The Barren Orchard
+description: The Barren Orchard epic battle guide for the kingdoms at war game
 layout: epic-battle
-categories:
 date: 2017-06-05
 published: true
 ---

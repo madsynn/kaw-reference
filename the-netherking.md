@@ -2,8 +2,8 @@
 layout: epic-battle
 title: The Netherking New EB
 subtitle: Epic Battle Details
+description: The Netherking epic battle guide for the kingdoms at war game
 date: 2017-08-20
-categories: nethers
 published: true
 ---
 
