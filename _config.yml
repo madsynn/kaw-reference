@@ -18,7 +18,7 @@ baseurl: /
 collections:
   ebs:
     output: true
-    permalink: "/ebs/:path/"
+    # permalink: "/ebs/:path/"
 
 defaults:
   -
