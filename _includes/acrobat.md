@@ -26,7 +26,6 @@
 	$(function() {
 	    $('#acronymtable').DataTable( {
 
-
                     language: {
                         search: "_INPUT_",
                         searchPlaceholder: "Search..."
