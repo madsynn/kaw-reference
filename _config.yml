@@ -3,18 +3,17 @@ title: KAWG
 tagline: "Kingdoms At War Guide"
 description: "Kingdoms at War Guide & Overview of helpful stuff to make the gamers of Kingdoms At war lives a little bit easier..."
 url: "https://madsynn.github.io/kaw-reference/"
-
-google_analytics: UA-104942085-1
-highlighter: rouge
+baseurl: /
 paginate: 5
 permalink: pretty
 
-version: "1.0.1"
+google_analytics: UA-104942085-1
+highlighter: rouge
 
 author:
   name: "Affordable Programmer"
   url: "https://twitter.com/AffordProg"
-baseurl: /
+
 
 collections:
   ebs:
@@ -29,7 +28,6 @@ defaults:
     values:
       layout: epic-battle
 
-
 gems:
   - jekyll-paginate
   - jekyll-gist
@@ -37,5 +35,4 @@ gems:
 
 github:
   repo: "https://github.com/karloespiritu/blackdoc"
-
-
+version: "1.0.1"
