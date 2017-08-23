@@ -15,9 +15,6 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
     <ul class="related-posts">
         {% for eb in site.ebs %}
         <li>
-
-
-
             <h2 style="float:left">
                 <a href="{{ site.baseurl }}{{ eb.url }}">
                   {{ eb.title }}
