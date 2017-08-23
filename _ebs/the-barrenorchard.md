@@ -2,6 +2,7 @@
 title: The Barren Orchard
 layout: epic-battle
 categories:
+date: 2017-06-05
 published: true
 ---
 
