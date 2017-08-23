@@ -1,9 +1,9 @@
 ---
 layout: page
 title: EB Reference Guide
+subtitle: KawG-E
 description: This is a list of Kingdoms at War Epic Battles  full of usefule tips and instructions on how to beat them.
 ---
-# KawG-E
 ## Kingdoms At War (KAW) EB Reference Guide
 
 <p class="message">
@@ -11,12 +11,12 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
 </p>
 
 <div class="related">
-    <h2>Epic Battles</h2>
+    <h1>Epic Battles</h1>
     <ul class="related-posts">
         {% for eb in site.ebs %}
         <li>
 
-        <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left">
+        <img src="{{ page.photo_path }}" alt="{{ page.name }}" style="float:left">
 
             <h2 style="float:left">
                 <a href="{{ site.baseurl }}{{ eb.url }}">
