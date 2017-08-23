@@ -16,7 +16,7 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
         {% for eb in site.ebs  | sort: category %}
         <li>
             {% if eb.photo_path %}
-                <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left; width:75px; margin:5px;" itemprop="image">
+                <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left; width:75px; margin:15px;" itemprop="image">
             {% endif %}
             <h2 style="float:left">
                 <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style="">
@@ -25,7 +25,7 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
             </h2>
             <br>
             <p  itemprop="description" style="float:left">
-                    {{ eb.description | truncate: 160 }}<
+                    {{ eb.description | truncate: 120 }}<
             </p>
             <br style="clear:both" />
 
