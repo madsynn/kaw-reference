@@ -18,19 +18,4 @@ layout: default
 </div>
 
 
-<div class="related">
-  <h2>Related ebs</h2>
-  <ul class="related-posts">
-    {% for page in site.pages limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ page.url }}">
-            {{ page.title }}
-            <small>{{ page.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
 
-</div>
