@@ -16,15 +16,15 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
         {% for eb in site.ebs %}
         <li>
             <h2 style="float:left">
-                <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style="width:75px">
+                <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style="">
                 {% if eb.photo_path %}
-                <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left" itemprop="image">
+                <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left; width:75px;" itemprop="image">
                 {% endif %}
                   <span itemprop="name">{{ eb.title }}</span>
                   </a><br>
             </h2>
             <br>
-            <p  itemprop="description">
+            <p  itemprop="description" style="float:left">
                     {{ eb.description | truncate: 160 }}<
             </p>
             <br style="clear:both" />
