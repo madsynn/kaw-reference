@@ -2,6 +2,7 @@
 layout: eb
 title: Scionic Storm
 subtitle: Epic Battle Details
+description: Sionic storm epic battle guide for the kingdoms at war game
 date: 2017-06-05
 published: true
 ---
