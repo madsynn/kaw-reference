@@ -23,7 +23,8 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
                   <span itemprop="name">{{ eb.title }}</span>
                   </a><br>
             </h2>
-            <p>
+            <br>
+            <p  itemprop="description">
                     {{ eb.description | truncate: 160 }}<
             </p>
             <br style="clear:both" />

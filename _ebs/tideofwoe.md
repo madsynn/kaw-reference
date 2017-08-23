@@ -5,6 +5,7 @@ subtitle: Epic Battle Details
 description: Tide of Woe epic battle guide for the kingdoms at war game
 photo_path: https://cloud.githubusercontent.com/assets/23286307/23721934/a6f00c42-0400-11e7-9206-8baac3d64b58.png
 date: 2017-06-05
+category:
 published: true
 ---
 

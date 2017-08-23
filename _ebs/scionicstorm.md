@@ -4,9 +4,10 @@ title: Scionic Storm
 subtitle: Epic Battle Details
 description: Sionic storm epic battle guide for the kingdoms at war game
 date: 2017-06-05
+photo_path:
+categroy: Hawthorn The Wretched
 published: true
 ---
-
 
 ![hawthorn](https://cloud.githubusercontent.com/assets/2112435/23970739/993f4622-0990-11e7-823c-1406005033d8.jpg)
 
