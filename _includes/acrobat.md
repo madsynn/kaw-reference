@@ -25,7 +25,7 @@
 <script>
 	$(function() {
 	    $('#acronymtable').DataTable( {
-
+                    "dom": 'flrtip',
                     language: {
                         search: "_INPUT_",
                         searchPlaceholder: "Search..."
