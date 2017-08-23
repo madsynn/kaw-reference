@@ -211,3 +211,21 @@ a.sidebar-nav-item:focus { text-decoration: underline; }
 ::-webkit-scrollbar-track { background: #333; border: thin solid #111;  /*box-shadow: 0px 0px 3px #111 inset;*/ border-radius: 10px; }
 ::-webkit-scrollbar-thumb { background: #222; border: thin solid #222; border-radius: 10px; }
 ::-webkit-scrollbar-thumb:hover { background: #7d7d7d; }
+
+
+
+input[type="search"]{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+select{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
