@@ -213,7 +213,6 @@ a.sidebar-nav-item:focus { text-decoration: underline; }
 ::-webkit-scrollbar-thumb:hover { background: #7d7d7d; }
 
 
-
 input[type="search"]{
     padding: 12px 20px;
     margin: 8px 0;

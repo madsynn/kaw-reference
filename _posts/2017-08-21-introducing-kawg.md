@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Introducing BlackDoc
+title: KAWG
+subtitle: The Unofficial Kingdoms At War (KAW) Reference Guide
 ---
 
 # Welcome to KAWG
