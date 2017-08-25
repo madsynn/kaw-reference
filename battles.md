@@ -7,7 +7,7 @@ description: This is a list of Kingdoms at War Epic Battles  full of usefule tip
 ## Kingdoms At War (KAW) EB Reference Guide
 
 <p class="message">
-    Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+    Hi there! This page lists all of the epic battles information like how to beat them and what drops come from each one!
 </p>
 
 <div class="related">
