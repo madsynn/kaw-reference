@@ -4,8 +4,8 @@ title: The Netherking New EB
 subtitle: Epic Battle Details
 description: The Netherking epic battle guide for the kingdoms at war game
 date: 2017-08-20
-photo_path:
-category:
+photo_path: https://user-images.githubusercontent.com/2112435/29734843-d1a2e3e2-89b1-11e7-8978-00aa4c18a721.png
+category: Apheriun The Netherking
 published: true
 ---
 

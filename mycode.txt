@@ -15,6 +15,8 @@ zelgarad-the-accursed
 scrag-the-bloodless
 wrath-of-the-sveruganti
 marrox-the-confined
+calydor-the-depraved-
+zuthmerak-of-despair-
 
 
 ![haunting-the-escape](https://user-images.githubusercontent.com/2112435/29606455-9ac139a8-87ab-11e7-80a1-1cb16b6e7b62.png)
@@ -36,3 +38,5 @@ marrox-the-confined
 ![marrox-the-confined](https://user-images.githubusercontent.com/2112435/29604617-47373090-87a5-11e7-876c-cbb6029966ca.png)
 ![ghomorax-of-the-highlands](https://user-images.githubusercontent.com/2112435/29605581-a3c7526a-87a8-11e7-96bb-676192d0f6f7.png)
 
+![revenge-of-the-warbeasts-inferno](https://user-images.githubusercontent.com/2112435/29735090-9ee3413e-89b3-11e7-8eb4-1cbd5a6ab094.png)
+![revenge-of-the-warbeasts](https://user-images.githubusercontent.com/2112435/29735091-9ee572b0-89b3-11e7-9638-f0b2e59a9050.png)
