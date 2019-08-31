@@ -1,6 +1,9 @@
 {
   "data": [
         [ "Def","Defense"],
+        [ "DTW","Defender To Weak"],
+        [ "DTS","Defender To Small"],
+        [ "BTA","Bonus To Allies"],
         [ "Scout Bomb","To scout someone a lot"],
         [ "Assa","To Assassinate someone"],
         [ "Keep","Owning an ally"],
