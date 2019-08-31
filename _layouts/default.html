@@ -10,7 +10,11 @@
     <div class="content container">
       {{ content }}
     </div>
-
+	  
+	<div class="advert">
+	{% include footer_advert.html %}
+	</div>
+	  
      {% if page.title == "Acronyms & Abbreviations" %}
 	<script src="{{ site.baseurl }}/public/js/jquery.dataTables.min.js"></script>
 	<script src="{{ site.baseurl }}/public/js/dataTables.bootstrap.min.js"></script>
