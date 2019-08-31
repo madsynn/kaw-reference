@@ -60,7 +60,7 @@
         [ "AoW","Art Of War"],
         [ "BFA","Bonus From Allies (total ally bonus * .02 = bfa)"],
         [ "BFE","Bonus From Equipment (total equipment bonus * .02 = bfe)"],
-        [ "NK","[The Netherking](/kaw-reference/_ebs/the-netherking "The Netherking")"],
-        [ "HTE","[Haunting The Escape](/kaw-reference/_ebs/haunting-the-escape "Haunting The Escape")"]
+        [ "NK","[The Netherking](/kaw-reference/_ebs/the-netherking \"The Netherking\")"],
+        [ "HTE","[Haunting The Escape](/kaw-reference/_ebs/haunting-the-escape \"Haunting The Escape\")"]
   ]
 }
