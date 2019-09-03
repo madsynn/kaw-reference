@@ -29,11 +29,10 @@ published: true
 | Aim for the Gills | Phase 4 Fifth Bar | Attack & Assasinate | |
 | Kralmora the Felltide | Main Bar | Attack & Assasinate | |
 
-ello
 
-##### KAW Guide - Kingdoms At War
 
-  <div class="advert">
-      {% include advertisements.html %}
-  
-  </div>
+##### KAW Guide - Kingdoms At War Epic Battles Walkthroughs
+
+<div class="advert">
+    {% include advertisements.html %}
+</div>
