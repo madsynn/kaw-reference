@@ -25,7 +25,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
             </h2>
             <br>
             <p  itemprop="description" style="float:left">
-                    {{ eb.description | truncate: 120 }}<
+                    {{ eb.description | truncate: 120 }}
             </p>
             <br style="clear:both" />
 
@@ -35,7 +35,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
     </ul>
 </div>
 
-##### KAW Guide - Kingdoms At War Epic Battles Walkthroughs
+##### KAW Guide - Kingdoms At War Epic Battle Walkthroughs
 
 <div class="advert">
     {% include advertisements.html %}
