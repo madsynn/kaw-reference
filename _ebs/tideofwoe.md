@@ -33,3 +33,7 @@ ello
 
 ##### KAW Guide - Kingdoms At War
 
+  <div class="advert">
+      {% include advertisements.html %}
+  
+  </div>
