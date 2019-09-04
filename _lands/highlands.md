@@ -13,12 +13,12 @@ The second set of lands released are The Highlands.
 
 These lands also unlock further elements of the game:
 
-Unlock # 1: Unlocks Tier 5 buildings for use
-Unlock # 4: Unlocks further spells in the alchemist
-Unlock # 12: Unlocks further spells in the alchemist
-Unlock # 15: Unlocks the castle level 3 upgrade and Hoarfrost lands
-Unlock # 20: Unlocks further spells in the alchemist
-Unlock # 25: Unlocks further spells in the alchemist
+Unlock # 1: Unlocks Tier 5 buildings for use <br>
+Unlock # 4: Unlocks further spells in the alchemist <br>
+Unlock # 12: Unlocks further spells in the alchemist <br>
+Unlock # 15: Unlocks the castle level 3 upgrade and Hoarfrost lands <br>
+Unlock # 20: Unlocks further spells in the alchemist <br>
+Unlock # 25: Unlocks further spells in the alchemist <br>
  
 
 ## Highland Costs
