@@ -15,6 +15,9 @@ Quick Reference to each land in kingdoms at war.
             <h2 style="float:left">
                 <a target="_blank" href="{{ site.baseurl }}{{ land.url }}" itemprop="url" style=""><span itemprop="name"> {{ land.title }} </span></a>
             </h2>
+            <p  itemprop="description" style="float:left">
+                    {{ land.description | truncate: 120 }}
+            </p>
         </li>
         {% endfor %}
     </ul>
