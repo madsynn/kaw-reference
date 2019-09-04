@@ -33,10 +33,9 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
         </li>
         {% endfor %}
     </ul>
+
 </div>
 
 ##### KAW Guide - Kingdoms At War Epic Battles Walkthroughs
 
-<div class="advert">
-    {% include advertisements.html %}
-</div>
+
