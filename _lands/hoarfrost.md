@@ -2,9 +2,9 @@
 layout: land
 title: The Hoarfrost
 subtitle: 3rd land in KAW
-description: 
+description: Land of Snow
 date: 2019-09-03
-category:  
+
 photo_path:  
 published: true
 ---
