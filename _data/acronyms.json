@@ -44,6 +44,7 @@
         [ "Attk","Attack"],
         [ "zs sz","Zero Spies"],
         [ "zt tz","Zero Troops"],
+        [ "CA","Clan Anouncement"],
         [ "LB","LeaderBoard"],
         [ "WC","World Chat"],
         [ "CC","Clan Chat"],
@@ -64,6 +65,7 @@
         [ "BFA","Bonus From Allies (total ally bonus * .02 = bfa)"],
         [ "BFE","Bonus From Equipment (total equipment bonus * .02 = bfe)"],
         [ "NK","[The Netherking](/kaw-reference/_ebs/the-netherking \"The Netherking\")"],
-        [ "HTE","[Haunting The Escape](/kaw-reference/_ebs/haunting-the-escape \"Haunting The Escape\")"]
+        [ "HTE","[Haunting The Escape](/kaw-reference/_ebs/haunting-the-escape \"Haunting The Escape\")"],
+        [ "RC","Roll Call - Everyone check in for war in chat"]
   ]
 }
