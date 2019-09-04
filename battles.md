@@ -14,7 +14,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
     <h1>Epic Battles</h1>
     <ul class="related-posts">
         {% for eb in site.ebs  | sort: category %}
-        <li>
+        <li style="clear:both">
             {% if eb.photo_path %}
                 <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left; width:75px; margin:15px;" itemprop="image">
             {% endif %}
