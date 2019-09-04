@@ -12,7 +12,7 @@ order: 1
 ## Lowland Costs
 
 | # | Cost |
-| :--- | :--- |
+| :--- | ---: |
 | 1 | Free  |
 | 2 | Free  |
 | 3 | Free  |
