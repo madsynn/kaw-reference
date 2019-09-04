@@ -30,12 +30,6 @@ defaults:
       type: ebs
     values:
       layout: epic-battle
-  -
-    scope:
-      path: ""
-      type: lands
-    values:
-      layout: land
 
 gems:
   - jekyll-paginate
