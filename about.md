@@ -11,7 +11,7 @@ tags: [ "kawg", "kaw", "kingdoms at war", "kaw guide" ]
 
 [KAW Epic Battles](/kaw-reference/eb "Kingdoms At War Epic Battles Guide")
 
-
+[KAW Lands](/kaw-reference/lands "Kingdoms At War Epic Lands Guide")
 
 ## About KAWG
 
