@@ -4,12 +4,14 @@ title: The Lowlands
 subtitle: First land in KAW
 description: Lowest and cheapest of the lands
 date: 2019-09-03
-photo_path:  
+photo_path: 
 published: true
 order: 1
 ---
 
 ## Lowland Costs
+
+![lowlands-empty](https://user-images.githubusercontent.com/2112435/64246804-bbbdbb00-ceca-11e9-97c2-57f2fdf10ce9.jpg)
 
 | # | Cost |
 | :--- | :--- |
