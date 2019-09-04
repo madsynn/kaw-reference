@@ -1,6 +1,9 @@
 {
   "data": [
         [ "Def","Defense"],
+        [ "DTW","Defender To Weak"],
+        [ "DTS","Defender To Small"],
+        [ "BTA","Bonus To Allies"],
         [ "Scout Bomb","To scout someone a lot"],
         [ "Assa","To Assassinate someone"],
         [ "Keep","Owning an ally"],
@@ -41,6 +44,7 @@
         [ "Attk","Attack"],
         [ "zs sz","Zero Spies"],
         [ "zt tz","Zero Troops"],
+        [ "CA","Clan Anouncement"],
         [ "LB","LeaderBoard"],
         [ "WC","World Chat"],
         [ "CC","Clan Chat"],
@@ -57,6 +61,11 @@
         [ "ADT","Attack Defense Tower"],
         [ "SDT","Spy Defense Tower"],
         [ "Kotfe","Knights of the fire emblem"],
-        [ "AoW","Art Of War"]
+        [ "AoW","Art Of War"],
+        [ "BFA","Bonus From Allies (total ally bonus * .02 = bfa)"],
+        [ "BFE","Bonus From Equipment (total equipment bonus * .02 = bfe)"],
+        [ "NK","[The Netherking](/kaw-reference/_ebs/the-netherking \"The Netherking\")"],
+        [ "HTE","[Haunting The Escape](/kaw-reference/_ebs/haunting-the-escape \"Haunting The Escape\")"],
+        [ "RC","Roll Call - Everyone check in for war in chat"]
   ]
 }
