@@ -86,6 +86,6 @@ published: true
 
 ##### KAW Guide - Kingdoms At War Epic Battle The Netherking
 
-[KAW Guide - Kingdoms At War Epic Battle The Netherking](http://www.kingdomsatwar.com/)
+[KAW](http://www.kingdomsatwar.com/)
 
 
