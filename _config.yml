@@ -19,6 +19,9 @@ collections:
   ebs:
     output: true
     permalink: "/ebs/:path/"
+  lands:
+    output: true
+    permalink: "/lands/:path/"
 
 defaults:
   -
