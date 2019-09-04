@@ -33,6 +33,4 @@ published: true
 
 ##### KAW Guide - Kingdoms At War Epic Battles Walkthroughs
 
-<div class="advert">
-    {% include advertisements.html %}
-</div>
+
