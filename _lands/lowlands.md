@@ -9,9 +9,9 @@ published: true
 order: 1
 ---
 
-## Lowland Costs
-
 ![lowlands-empty](https://user-images.githubusercontent.com/2112435/64246804-bbbdbb00-ceca-11e9-97c2-57f2fdf10ce9.jpg)
+
+## Lowland Costs
 
 | # | Cost |
 | :--- | :--- |
