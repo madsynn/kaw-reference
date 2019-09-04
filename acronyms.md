@@ -12,8 +12,4 @@ Simply type what you are looking for into the search box and watch it appear. If
 
 
 
-##### KAW Guide - Kingdoms At War Epic Battle Walkthroughs
-
-<div class="advert">
-    {% include advertisements.html %}
-</div>
+ 
