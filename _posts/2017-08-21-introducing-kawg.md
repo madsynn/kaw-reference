@@ -15,4 +15,6 @@ subtitle: The Unofficial Kingdoms At War (KAW) Reference Guide
 
 [KAW Epic Battles](/kaw-reference/battles "Kingdoms At War Epic Battles Guide")
 
+[KAW Lands](/kaw-reference/lands "Kingdoms At War Epic Lands Guide")
+
 ## About KAWG
