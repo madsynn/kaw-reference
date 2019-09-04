@@ -18,18 +18,25 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
             {% if eb.photo_path %}
                 <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left; width:75px; margin:15px;" itemprop="image">
             {% endif %}
-            
             <h2 style="float:left">
-                <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style=""><span itemprop="name"> {{ eb.title }} </span></a>
+                <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style="">
+                        <span itemprop="name">{{ eb.title }}</span>
+                  </a>
             </h2>
             <br>
             <p  itemprop="description" style="float:left">
-                    {{ eb.description | truncate: 120 }}
+                    {{ eb.description | truncate: 120 }}<
             </p>
+            <br style="clear:both" />
+
+       <hr />
         </li>
         {% endfor %}
     </ul>
 </div>
 
-##### KAW Guide - Kingdoms At War Epic Battle Walkthroughs
+##### KAW Guide - Kingdoms At War Epic Battles Walkthroughs
 
+<div class="advert">
+    {% include advertisements.html %}
+</div>
