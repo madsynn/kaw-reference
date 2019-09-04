@@ -22,11 +22,7 @@
 </div>
 
 ##### KAW Guide - Kingdoms At War Abbreviations and Acronyms
-
-<div class="advert">
-    {% include advertisements.html %}
-</div>
-
+ 
 <script>
 	$(function() {
 	    $('#acronymtable').DataTable( {
