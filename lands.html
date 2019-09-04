@@ -10,7 +10,7 @@ Quick Reference to each land in kingdoms at war.
 <div class="related">
     <h1>KAW Lands</h1>
     <ul class="related-posts">
-        {% for land in site.lands %}
+        {% for lands in site.land %}
         <li>
             {% if land.photo_path %}
                 <img src="{{ land.photo_path }}" alt="{{ land.name }}" style="float:left; width:75px; margin:15px;" itemprop="image">
