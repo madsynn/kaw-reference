@@ -10,19 +10,11 @@ Quick Reference to each land in kingdoms at war.
 <div class="related">
     <h1>KAW Lands</h1>
     <ul class="related-posts">
-        {% for lands in site.land %}
+        {% for land in lands %}
         <li>
-            {% if land.photo_path %}
-                <img src="{{ land.photo_path }}" alt="{{ land.name }}" style="float:left; width:75px; margin:15px;" itemprop="image">
-            {% endif %}
-            
             <h2 style="float:left">
                 <a href="{{ site.baseurl }}{{ land.url }}" itemprop="url" style=""><span itemprop="name"> {{ land.title }} </span></a>
             </h2>
-            <br>
-            <p  itemprop="description" style="float:left">
-                    {{ land.description | truncate: 120 }}
-            </p>
         </li>
         {% endfor %}
     </ul>
