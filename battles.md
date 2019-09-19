@@ -40,16 +40,16 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 </div>
 
 <div class="pagination">
-  {% if paginator.next_eb %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_eb}}">Older</a>
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.eb == 2 %}
+    {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_eb}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
