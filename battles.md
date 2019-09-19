@@ -12,19 +12,26 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 
 <div class="related">
 ----------------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------------
-<ul>
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-    {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+
+   {% assign cat_name = category[0] %}
+
+  {% for post in site.categories.cat_name %}
+
+     {{ post.title }}
+
+  {% endfor%}
+
+ {% endfor %}
+----------------------------------------------------------------------------------------
+<h5>Categories</h5>
+{% for category in site.categories %}
+    {% assign cat = category[0] %}
+    <h6><a href="#">{{ cat }}</a></h6>
+    {% for post in site.categories[cat] %}
+        <a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date }}</small>
     {% endfor %}
-    </ul>
-  </li>
 {% endfor %}
-</ul>    
     
 ----------------------------------------------------------------------------------------
     
