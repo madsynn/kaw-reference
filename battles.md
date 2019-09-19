@@ -11,15 +11,31 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 </p>
 
 <div class="related">
+<ul>
 {% for category in eb.categories %}
-  <h1>{{ category }}</h1>
-  <ul>
-    {% for eb in eb.categories[category] %}
-      <li><a href="{{ site.baseurl }}{{ eb.url }}">{{ eb.title }}</a></li>
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for eb in category.last %}
+      <li><a href="{{ post.url }}">{{ eb.title }}</a></li>
     {% endfor %}
-  </ul>
+    </ul>
+  </li>
 {% endfor %}
+</ul>
+    --------------------------------------------
+<ul>
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for post in category.last %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>    
     
+    -------------------------------------------------
     
     <h1>Epic Battles</h1>
     <ul class="related-posts">
