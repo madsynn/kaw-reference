@@ -3,7 +3,7 @@ layout: epic-battle
 title: The Barren Orchard
 subtitle: Epic Battle Details
 description: The Barren Orchard epic battle guide for the kingdoms at war game
-date: 2017-06-05
+date: 2019-09-18
 category: Moutos The Malevolent
 photo_path: https://user-images.githubusercontent.com/2112435/29604792-dddd23c4-87a5-11e7-8843-8c63100b8bce.png
 published: true
@@ -12,7 +12,7 @@ published: true
 ## The Barren Orchard
 ### Epic Battle Details
 
-![hawthorn]()
+![moutos-the-malevolent](https://user-images.githubusercontent.com/2112435/29604792-dddd23c4-87a5-11e7-8843-8c63100b8bce.png)
 
 | Bar Name | Phase | Action | Item: | Needed |
 | --- | --- | --- | --- | --- |
