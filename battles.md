@@ -21,12 +21,12 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
             <h2 style="float:left">
                 <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style="">
                     <span itemprop="name">{{ eb.title }}</span>                     
-                  </a>  <br>
-                  <small style="font-size:.5em;">{{ eb.category }}</small>
+                  </a>   
+                  <span style="font-size:.75em;">{{ eb.category }}</span>
             </h2>
             <br>
             <p  itemprop="description" style="float:left">
-                   <small style="font-size:.5em;"> {{ eb.description | truncate: 120 }}</small>
+                   <span style="font-size:1em;"> {{ eb.description | truncate: 120 }}</span>
             </p>
             
             <br style="clear:both" />
