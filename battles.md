@@ -12,9 +12,9 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 
 <div class="related">
 {% for category in eb.categories %}
-  <h1>{{ cat }}</h1>
+  <h1>{{ category }}</h1>
   <ul>
-    {% for eb in eb.categories[cat] %}
+    {% for eb in eb.categories[category] %}
       <li><a href="{{ site.baseurl }}{{ eb.url }}">{{ eb.title }}</a></li>
     {% endfor %}
   </ul>
