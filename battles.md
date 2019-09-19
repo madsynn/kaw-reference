@@ -26,7 +26,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
             </h2>
             <br>
             <p  itemprop="description" style="float:left">
-                    {{ eb.description | truncate: 120 }}<
+                   <small> {{ eb.description | truncate: 120 }}</small>
             </p>
             
             <br style="clear:both" />
