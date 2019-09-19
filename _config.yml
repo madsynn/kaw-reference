@@ -20,6 +20,9 @@ collections:
     output: true
     permalink: "/ebs/:path/"
     sort_by: "category"
+    paginate: 10
+    paginate_path: "/ebs/eb:num/"
+
   lands:
     output: true
     permalink: "/lands/:path/"
