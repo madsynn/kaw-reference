@@ -11,6 +11,16 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 </p>
 
 <div class="related">
+{% for category in eb.categories %}
+  <h1>{{ cat }}</h1>
+  <ul>
+    {% for eb in eb.categories[cat] %}
+      <li><a href="{{ site.baseurl }}{{ eb.url }}">{{ eb.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+    
+    
     <h1>Epic Battles</h1>
     <ul class="related-posts">
         {% for eb in site.ebs  | sort: category %}
