@@ -19,9 +19,11 @@ collections:
   ebs:
     output: true
     permalink: "/ebs/:path/"
+    sort_by: "category"
   lands:
     output: true
     permalink: "/lands/:path/"
+    sort_by: "category"
 
 defaults:
   -
