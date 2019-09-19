@@ -11,37 +11,16 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 </p>
 
 <div class="related">
-----------------------------------------------------------------------------------------
-{% for category in site.categories %}
-
-   {% assign cat_name = category[0] %}
-
-  {% for post in site.categories.cat_name %}
-
-     {{ post.title }}
-
-  {% endfor%}
-
- {% endfor %}
+ 
 ----------------------------------------------------------------------------------------
 <h5>Categories</h5>
-{% comment %}
-#
-#  Change date order by adding '| reversed'
-#  To sort by title or other variables use {% assign sorted_posts = category[1] | sort: 'title' %}
-#
-{% endcomment %}
-{% assign sorted_cats = site.categories | sort %}
-{% for category in sorted_cats %}
-{% assign sorted_posts = category[1] | reversed %}
-<h2 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</H2>
-<ul>
-  {% for post in sorted_posts %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a></li>
-  {% endfor %}
-</ul>
+ {% for category in site.categories %}
+    {% assign cat = category[0] %}
+    <h6><a href="#">{{ cat }}</a></h6>
+    {% for eb in site.categories[cat] %}
+        <a href="{{ eb.url }}">{{ eb.title }}</a> <small>{{ eb.date }}</small>
+    {% endfor %}
 {% endfor %}
-    
 ----------------------------------------------------------------------------------------
     
     <h1>Epic Battles</h1>
