@@ -11,7 +11,22 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 </p>
 
 <div class="related">
- 
+----------------------------------------------------------------------------------------
+ <div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url | remove_first: '/'}}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 ----------------------------------------------------------------------------------------
 <h5>Cats</h5>
  {% for category in site.eb.categories %}
