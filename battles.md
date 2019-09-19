@@ -24,7 +24,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 
 
  <div class="posts">
-  {% for eb in paginator.ebs %}
+  {% for eb in site.paginator.ebs %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ eb.url | remove_first: '/'}}">
@@ -46,7 +46,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
+    {% if paginator.eb == 2 %}
       <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
     {% else %}
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_eb}}">Newer</a>
