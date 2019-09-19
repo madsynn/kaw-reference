@@ -6,7 +6,7 @@ url: "https://madsynn.github.io/kaw-reference/"
 
 google_analytics: UA-104942085-1
 highlighter: rouge
-paginate: 5
+paginate: 10
 permalink: pretty
 version: "1.0.1"
 
@@ -20,8 +20,6 @@ collections:
     output: true
     permalink: "/ebs/:path/"
     sort_by: "category"
-    paginate: 10
-    paginate_path: "/ebs/eb:num/"
 
   lands:
     output: true
