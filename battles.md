@@ -24,7 +24,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 
 
  <div class="posts">
-  {% for eb in paginator.page %}
+  {% for eb in paginator.ebs %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ eb.url | remove_first: '/'}}">
@@ -39,20 +39,22 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
   {% endfor %}
 </div>
 
+<!-- Pagination links -->
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
   {% endif %}
 </div>
 ----------------------------------------------------------------------------------------
