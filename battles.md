@@ -13,7 +13,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 <div class="related">
 ----------------------------------------------------------------------------------------
  <div class="posts">
-  {% for eb in paginator.ebs %}
+  {% for eb in paginator.site.ebs %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ eb.url | remove_first: '/'}}">
