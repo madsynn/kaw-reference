@@ -24,7 +24,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 
 
  <div class="posts">
-  {% for eb in site.paginator.ebs %}
+  {% for eb in paginator.page %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ eb.url | remove_first: '/'}}">
