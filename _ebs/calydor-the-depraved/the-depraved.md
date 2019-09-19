@@ -1,8 +1,8 @@
 ---
 layout: epic-battle
-title: To The Chamber
+title: The Depraved
 subtitle: Epic Battle Details
-description: To The Chamber epic battle guide for the kingdoms at war game
+description: The Depraved epic battle guide 
 date: 2019-09-18
 category: Calydor The Depreaved
 photo_path: https://user-images.githubusercontent.com/2112435/29604611-471d97de-87a5-11e7-944c-aa404c7a63c3.png
