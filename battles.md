@@ -13,7 +13,6 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 <div class="related">
 ----------------------------------------------------------------------------------------
  <div class="posts">
-     duh
   {% for eb in paginator.ebs %}
   <div class="post">
     <h1 class="post-title">
@@ -30,8 +29,8 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
 </div>
 
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% if paginator.next_eb %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_eb}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
@@ -39,21 +38,14 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_eb}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
 ----------------------------------------------------------------------------------------
-<h5>Cats</h5>
- {% for category in site.eb.categories %}
-    {% assign cat = category[0] %}
-    <h6><a href="#">{{ cat }}</a></h6>
-    {% for eb in site.categories[cat] %}
-        <a href="{{ eb.url }}">{{ eb.title }}</a> <small>{{ eb.date }}</small>
-    {% endfor %}
-{% endfor %}
+ 
 ----------------------------------------------------------------------------------------
     
 
