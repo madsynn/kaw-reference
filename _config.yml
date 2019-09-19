@@ -25,6 +25,17 @@ collections:
     permalink: "/lands/:path/"
     sort_by: "category"
 
+webmaster_verifications:
+  google:
+  bing:
+
+social:
+  name: Phillip Madsen
+  links:
+    - https://www.facebook.com/phillip.madsen.ut
+    - https://www.linkedin.com/in/phillipmadsen
+    - https://github.com/madsynn
+
 defaults:
   -
     scope:
