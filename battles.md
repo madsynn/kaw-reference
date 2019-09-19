@@ -14,7 +14,7 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
  
 ----------------------------------------------------------------------------------------
 <h5>Categories</h5>
- {% for category in site.categories %}
+ {% for category in site.eb.categories %}
     {% assign cat = category[0] %}
     <h6><a href="#">{{ cat }}</a></h6>
     {% for eb in site.categories[cat] %}
