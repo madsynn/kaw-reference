@@ -17,11 +17,10 @@ description: This is a list of Kingdoms at War Epic Battles and full of usefule 
         <li style="clear:both">
             {% if eb.photo_path %}
                 <img src="{{ eb.photo_path }}" alt="{{ eb.name }}" style="float:left; width:75px; margin:15px;" itemprop="image">
-            {% endif %}
-            <small style="font-size:.75em; ">{{ eb.category }}</small>
+            {% endif %} <br>
+            <small style="font-size:.75em; ">{{ eb.category }}</small> <br>
             <h2 style="float:left">
-                <small style="font-size:.75em; ">{{ eb.category }}</small>
-                <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style="">
+                  <a href="{{ site.baseurl }}{{ eb.url }}" itemprop="url" style="">
                     <span itemprop="name">{{ eb.title }}</span>                     
                   </a>   
                   
