@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EB Reference Guide
-subtitle: KawG-E
+subtitle: KawG-EBs
 description: This is a list of Kingdoms at War Epic Battles and full of usefule tips and instructions on how to beat them.
 ---
 ## Kingdoms At War (KAW) EB Reference Guide
