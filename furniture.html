@@ -1,0 +1,24 @@
+---
+layout: page
+title: Furniture Sets
+---
+
+<p class="message">
+Quick Reference to each land in kingdoms at war.
+</p>
+
+<div class="related">
+    <h1>KAW Furniture Sets</h1>
+    <ul class="related-posts">
+        {% for set in site.sets %} 
+        <li style="clear:both">
+            <h2 style="float:left">
+                <a target="_blank" href="{{ site.baseurl }}{{ set.url }}" itemprop="url" style=""><span itemprop="name"> {{ set.title }} </span></a>
+            </h2>
+            <p  itemprop="description" style="clear:both">
+                    {{ set.description | truncate: 120 }}
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
