@@ -26,6 +26,10 @@ collections:
     permalink: "/lands/:path/"
     sort_by: "category"
 
+  sets:
+    output: true
+    permalink: "/sets/:path/"
+
 webmaster_verifications:
   google:
   bing:
